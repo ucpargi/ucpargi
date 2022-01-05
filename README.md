@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ucpargi
+- 👋 Hi, I’m Urmila Pargi
 - 👀 I’m interested in JavaScript platform 
 - 🌱 I’m currently learning JavaScript, HTML, CSS, React
 - 💞️ I’m looking to have job in ReactJS
